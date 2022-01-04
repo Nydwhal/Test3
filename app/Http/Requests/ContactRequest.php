@@ -16,6 +16,8 @@ class ContactRequest extends FormRequest
         return false;
     }
 
+    //hello
+
     /**
      * Get the validation rules that apply to the request.
      *
